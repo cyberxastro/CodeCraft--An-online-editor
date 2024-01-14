@@ -8,6 +8,13 @@
 # Importance
   CodeCraft is designed to provide a dynamic coding environment where users can instantly see the results of their code changes. It aims to streamline the coding experience, fostering creativity, collaboration, and learning.
 
+# Upcoming Features
+* Live Preview Cards on Homepage:
+Soon, enjoy live project previews directly on the homepage. Get a sneak peek without opening the entire pen, enhancing the browsing experience.
+
+* Community Sharing:
+Our upcoming Community tab will enable users to freely share their work, ideas, and collaborate with fellow developers. Join a thriving ecosystem of creativity.
+
 # Why CodeCraft?
 1. Seamless Live Compilation
 CodeCraft utilizes the CodeMirror library to offer a seamless live compilation experience. Write your HTML, CSS, and JavaScript code, and witness the changes instantly without the need for manual refreshing.
